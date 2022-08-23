@@ -1,2 +1,3 @@
-# Unity-Packages
-Este repositorio va a tener todos los packages que vaya creando para crear mis juegos
+# Rigging generico
+
+Este sistema permite poder sacar lo escencial de una animacion, y poder aplicarselo a varios elementos, produciendo animaciones similares que se adaptan al elemento en cuestion.

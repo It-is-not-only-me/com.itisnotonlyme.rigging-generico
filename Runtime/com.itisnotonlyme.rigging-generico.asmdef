@@ -1,9 +1,8 @@
 {
-    "name": "Demo-nombre",
+    "name": "com.itisnotonlyme.rigging-generico",
     "rootNamespace": "",
     "references": [
-        "GUID:e0181a92e4e8cf2459847f25a932efa9",
-        "GUID:802e58e63172b7c4f8615a31027beba3"
+        "GUID:0994bc7788baf154ab9c32e22e902d83"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

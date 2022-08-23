@@ -1,12 +1,13 @@
 {
-    "name": "com.itisnotonlyme.nombre",
-    "version": "1.0.0",
-    "displayName": "Nombre Lindo",
-    "description": "Descripcion linda",
+    "name": "com.itisnotonlyme.rigging-generico",
+    "version": "0.1.0",
+    "displayName": "Rigging generico",
+    "description": "El sistema permite extraer lo escencial de las animaciones, permitiendo que se pueda aplicar a varias animaciones con diferentes propiedades",
     "unity": "2020.3",
     "keywords": [
-      "Key", 
-      "Words"
+      "Animaciones", 
+      "Adaptar",
+      "Rigging"
     ],
     "author": {
       "name": "Juan Ignacio Biancuzzo",

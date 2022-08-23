@@ -1,7 +1,10 @@
 {
-    "name": "com.itisnotonlyme.nombre.Editor",
+    "name": "Demo-rigging-generico",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:0994bc7788baf154ab9c32e22e902d83",
+        "GUID:b820b1141ce6c6844b9160933a47a17a"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
